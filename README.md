@@ -219,7 +219,6 @@ make run
 - [ ] Additional drivers (mouse, sound)
 ## About
 
-- HyzeOS is based of the Hexium Kernel
 - HyzeOS is made by Hitesh Vinothkumar
 - HyzeOS is part of HyzeLabs
 
